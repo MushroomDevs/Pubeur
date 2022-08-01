@@ -3,7 +3,7 @@ import re
 
 #------------------------
 if __name__ == "__main__":
-     token   = 'ODY2OTc0MDQ5MzM0NTkxNDg5.G8qDfs.hvx3NPtaKv6cPRWFN74cGNAAP6JjrhphEDJXUs'
+     token   = ''
      invite  = 'https://discord.gg/sociale'
 #------------------------
 
